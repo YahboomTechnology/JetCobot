@@ -1,4 +1,4 @@
-# AI VIEW Depth Camera with Binocular structured light for ROS robot
+# JetCobot 7-axis visual collaborative robotic arm for Jetson NANO 4GB/Orin NANO/Orin NX
 ![](https://github.com/YahboomTechnology/JetCobot/blob/main/JETCOBOT.jpg)
 # Introduction
 JetCobot is a 7-axis visual collaborative robotic arm. It uses the NVIDIA series development board as the main control board. It adopts a configuration similar to the UR robot, flexible movement, and maximum effective arm span of 270MM. Through the ROS robot operating system and inverse kinematics algorithm, the robotic arm coordinate control, motion planning, gripping and sorting functions are realized. It equipped it with a 0.3MP USB camera, combined with OpenCV images, machine vision, deep learning and other algorithms, can complete color interaction, face tracking, label recognition, model training, gesture interaction and other functions. In addition to supporting MoveIt simulation control, JetCobot also supports APP, handle, PC web control.
